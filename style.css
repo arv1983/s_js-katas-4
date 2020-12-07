@@ -1,0 +1,15 @@
+/* você pode estilizar se quiser !!! */
+
+#kata {
+    background-color: rgb(194, 194, 194);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#kataResposta {
+    background-color: rgb(223, 223, 223);
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
